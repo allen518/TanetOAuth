@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="OpenIDOAuth.aspx.cs" Inherits="Web_OpenID_OpenIDOAuth" %>
